@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-EasyKB",
+  "title": "EasyKB",
+  "keywords": "EasyKB, esp32, esp8266, arduino",
+  "description": "EasyKB-module plugin for KB-IDE",
+  "category":"Communication",
+  "git": "",
+  "author": "er9xto",
+  "email": "",
+  "url": "",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "er9xto",
+  "image" : "",
+  "homepage": "http://www.kbide.org"
+}
