@@ -12,6 +12,6 @@
   "board" : "EasyKB",
   "platform": ["arduino-esp32"],
   "license": "er9xto",
-  "image" : "static/display.jpg",
+  "image" : "https://raw.github.com/allstareducation/EasyKB-KB-IDE/master/pic/EasyKB_Board.jpg",
   "homepage": "http://www.kbide.org"
 }
